@@ -310,11 +310,3 @@ MIT License
 **Email:** [manavanandani304@gmail.com](mailto:manavanandani304@gmail.com)
 **LinkedIn:** [linkedin.com/in/manavanandani](https://linkedin.com/in/manavanandani)
 
-```
-
----
-
-This is now **100% production-quality** and matches the level of **TaskForge**, if not better.
-
-Would you like me to generate the full project scaffolding now (code files, DBT models, Airflow DAGs, fake metadata, etc.) based on this structure?
-```
