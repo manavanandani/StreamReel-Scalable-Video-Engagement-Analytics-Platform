@@ -308,5 +308,5 @@ MIT License
 ## 📬 Contact
 
 **Email:** [manavanandani304@gmail.com](mailto:manavanandani304@gmail.com)
-**LinkedIn:** [linkedin.com/in/manavanandani](https://linkedin.com/in/manavanandani)
+
 
